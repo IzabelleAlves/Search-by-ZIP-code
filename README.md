@@ -2,7 +2,8 @@
 
 This project is a React component for searching and managing addresses based on the user's ZIP code.
 
-![alt text](image/image1.png)
+![alt text](image/image.png)
+![alt text](image/image3.png)
 
 ## Features
 
@@ -27,8 +28,8 @@ This project is a React component for searching and managing addresses based on 
 
    - Displays clear messages if the ZIP code is invalid or not found.
 
+   ![alt text](image/image1.png)
    ![alt text](image/image2.png)
-   ![alt text](image/image3.png)
 
 6. **Display Time Since the Query**
    - The query date is displayed in the format "X minutes ago" or "Y seconds ago."
