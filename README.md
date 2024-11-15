@@ -47,6 +47,7 @@ This project is a React component for searching and managing addresses based on 
   - `ptBR` for localization in Brazilian Portuguese.
 - **uuid**: To generate unique IDs for each address.
 - **Tailwind CSS**: Simplified and responsive styling.
+- **ViaCEP API**: Used to fetch address data based on the provided ZIP code.
 
 ### **API Request**
 
